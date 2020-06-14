@@ -1,30 +1,23 @@
-    1  pwd
+
     2  apt -get update
     3  apt-get update
     4  sudo -su
-    5  who am i
-    6  sudo -su
-    7  apt-get update
+     7  apt-get update
     8  apt-get install git
     9  pwd
    10  git status
    11  sudo apt install git
    12  git status
-   13  git
-   14  git status
-   15  git init test
+    15  git init test
    16  git status
    17  git init gittest
-   18  pwd
    19  ls
    20  cd gittest
-   21  ls
-   22  git status
+    22  git status
    23  vi gittestfile
    24  ls
    25  git status
-   26  git committ -m
-   27  git commit -m
+    27  git commit -m
    28  ls
    29  git status
    30  git add gittestfile
@@ -32,11 +25,7 @@
    32  help
    33  pwd
    34  ls
-   35  git status
-   36  ls
-   37  cd ..
-   38  ls
-   39  ls -ltr
+    39  ls -ltr
    40  pwd
    41  cd gittest
    42  git status
@@ -45,9 +34,7 @@
    45  cd test
    46  ls
    47  git status
-   48  cd ..
-   49  ls
-   50  cd gittest
+    50  cd gittest
    51  l
    52  la
    53  git committ -m
