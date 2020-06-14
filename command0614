@@ -322,3 +322,196 @@
   168  git branch
   169  ls
   170  history >>command0614
+    1  pwd
+    2  apt -get update
+    3  apt-get update
+    4  sudo -su
+    5  who am i
+    6  sudo -su
+    7  apt-get update
+    8  apt-get install git
+    9  pwd
+   10  git status
+   11  sudo apt install git
+   12  git status
+   13  git
+   14  git status
+   15  git init test
+   16  git status
+   17  git init gittest
+   18  pwd
+   19  ls
+   20  cd gittest
+   21  ls
+   22  git status
+   23  vi gittestfile
+   24  ls
+   25  git status
+   26  git committ -m
+   27  git commit -m
+   28  ls
+   29  git status
+   30  git add gittestfile
+   31  git status
+   32  help
+   33  pwd
+   34  ls
+   35  git status
+   36  ls
+   37  cd ..
+   38  ls
+   39  ls -ltr
+   40  pwd
+   41  cd gittest
+   42  git status
+   43  cd ..
+   44  ls
+   45  cd test
+   46  ls
+   47  git status
+   48  cd ..
+   49  ls
+   50  cd gittest
+   51  l
+   52  la
+   53  git committ -m
+   54  git commit -m initial commit@11:46
+   55  git commit -m initial commit
+   56  git commit -m "initial commit"
+   57  pwd
+   58  git status
+   59  cd ..
+   60  pwd
+   61  cd test
+   62  git status
+   63  cd ..
+   64  cd gittest
+   65  git status
+   66  git help
+   67  git log
+   68  ls
+   69  git create branch gittestfile
+   70  branch gittestfile
+   71  git log
+   72  pwd
+   73  cd ..
+   74  mkdir projectgit
+   75  cd projectgit/
+   76  git init
+   77  ls
+   78  ls -ltr
+   79  ls .
+   80  ls
+   81  vi 1.txt
+   82  ls
+   83  git add
+   84  git add 1.txt
+   85  ls
+   86  git log
+   87  git status
+   88  git rm --cached 1.txt
+   89  ls
+   90  git status
+   91  vi 2.txt
+   92  ls
+   93  git log
+   94  git status
+   95  git add 1.txt
+   96  git log
+   97  git status
+   98  git rm --cached 1.txt
+   99  git status
+  100  git add 1.txt
+  101  git status
+  102  vi 1.txt
+  103  git status
+  104  git checkout 1.txt
+  105  vi 1.txt
+  106  git status
+  107  vi 1.txt
+  108  git status
+  109  git add 1.txt
+  110  git status
+  111  git log
+  112  git rm --cached 1.txt
+  113  git statis
+  114  git status
+  115  read 1.txt
+  116  more 1.txt
+  117  git help
+  118  pwd
+  119  ls
+  120  pwd
+  121  cd ..
+  122  mkdir git-test
+  123  cd git-test
+  124  ls -all
+  125  git init
+  126  ls -all
+  127  echo test one >>file1
+  128  touch file2
+  129  ls
+  130  git status
+  131  git add .
+  132  git status
+  133  git commit -m "first commit"
+  134  git status
+  135  git log
+  136  cd .git/
+  137  ls
+  138  cd objects
+  139  ls
+  140  ls -ltr
+  141  cd ..
+  142  ls
+  143  cd ..
+  144  ls
+  145  git remote add origin https://github.com/chandanchalla/git-demo.git
+  146  git push -u origin master
+  147  pwd
+  148  cd .git
+  149  ls
+  150  cat config
+  151  cd ..
+  152  ls
+  153  history
+  154  history >>command0614
+  155  ls
+  156  git push -u origin master
+  157  git status
+  158  git add .
+  159  git commit
+  160  git commit -m "commands"
+  161  git push -u origin master
+  162  git log
+  163  pwd
+  164  git branch
+  165  git branch feature1
+  166  git branch
+  167  git checkout feature1
+  168  git branch
+  169  ls
+  170  history >>command0614
+  171  git log
+  172  git status
+  173  echo adding new file3 >file3
+  174  git status
+  175  git log
+  176  git add file3
+  177  git add command0614
+  178  git commit -m "new branch"
+  179  git status
+  180  git push -u origin feature1
+  181  git cehckout master
+  182  git checkout master
+  183  ls
+  184  git checkout feature1
+  185  ls
+  186  git pull
+  187  ls
+  188  checkout master
+  189  git checkout master
+  190  ls
+  191  git pull
+  192  ls
+  193  history >>command0614
